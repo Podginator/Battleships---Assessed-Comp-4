@@ -1,0 +1,8 @@
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\bin\Release\Battleship.exe.config
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\bin\Release\Battleship.exe
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\bin\Release\Battleship.pdb
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\obj\Release\Battleship.exe
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\obj\Release\Battleship.pdb
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\obj\Release\Battleship.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\bin\Release\Games\computervscomputer.txt
+\\ctstudent2\studentusers\100265937\Desktop\Battleship\Battleship\bin\Release\Games\compvscomp.txt
